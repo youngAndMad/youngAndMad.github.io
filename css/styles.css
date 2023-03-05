@@ -303,6 +303,9 @@ html {
     -webkit-text-size-adjust: 100%;
     /* 2 */
 }
+.leetcode{
+    background: white;
+}
 
 /* ------------------------------------------------------------------- 
  * ## sections
